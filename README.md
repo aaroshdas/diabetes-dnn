@@ -1,4 +1,4 @@
-dnn.py -  back propagation uses sigmoid as activation function on a [21, 100, 10, 1] network to calculate probability of being diabetic based on 
+dnn.py -  back_propagation function uses sigmoid as activation function on a [21, 100, 10, 1] network to calculate probability of being diabetic based on 
 blood pressure, cholestrol, BMI, smoking status, ect...
 <br/>
 
